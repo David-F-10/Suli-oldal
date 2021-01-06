@@ -1,0 +1,46 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('ipari.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial
+}
+.main
+{
+    width: 750px;
+    margin-top: 100px;
+    border-radius: 5px;
+    box-shadow: white;
+    background-color: rgba(228, 181, 51, 0.692);
+}
+.kep
+{
+    width: 750px;
+    text-align: center;
+    margin-top: -67px;
+    background-color: rgba(0, 0, 0, 0.335);
+}
+.cim
+{
+    
+    text-align: center;
+    font-size: 50px;
+    color: rgb(224, 224, 50);
+    background-color: rgba(0, 0, 0, 0.335);
+}
+.szakok
+{
+    font-size: 25px;
+    text-indent: 30px;
+}
+:any-link
+{
+    color: rgb(31, 29, 29);
+    text-decoration: none;
+}
+ol
+{
+    margin-top: -25px;
+}
